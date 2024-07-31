@@ -1,0 +1,17 @@
+Well,Component,Concentration[mM]
+A1,MOPS[mM],2000.0
+B1,Tricine[mM],400.0
+C1,H3BO3[mM],2.4
+D1,Glucose[mM],3000.0
+A2,K2SO4[mM],43.5
+B2,K2HPO4[mM],396.0
+C2,FeSO4[mM],6.0
+D2,NH4Cl[mM],1904.0001
+A3,MgCl2[mM],15.6
+B3,NaCl[mM],1500.0
+C3,(NH4)6Mo7O24[mM],0.018
+D3,CoCl2[mM],0.18
+A4,CuSO4[mM],0.06
+B4,MnSO4[mM],0.48
+C4,ZnSO4[mM],0.06
+D4,Kan,300x

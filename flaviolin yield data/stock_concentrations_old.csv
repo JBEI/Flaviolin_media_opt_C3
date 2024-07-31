@@ -1,0 +1,17 @@
+Component,Low Concentration[mM],High Concentration[mM],Dilution Factor
+MOPS[mM],2000.0,2000.0,1.0
+Tricine[mM],400.0,400.0,1.0
+H3BO3[mM],0.12,2.4,20.0
+Glucose[mM],3000.0,3000.0,1.0
+K2SO4[mM],8.7,43.5,5.0
+K2HPO4[mM],79.2,396.0,5.0
+FeSO4[mM],0.3,6.0,20.0
+NH4Cl[mM],1904.0001,1904.0001,1.0
+MgCl2[mM],15.6,15.6,1.0
+NaCl[mM],1500.0,1500.0,1.0
+(NH4)6Mo7O24[mM],0.0009,0.018,20.0
+CoCl2[mM],0.009,0.18,20.0
+CuSO4[mM],0.003,0.06,20.0
+MnSO4[mM],0.024,0.48,20.0
+ZnSO4[mM],0.003,0.06,20.0
+Kan,300x,300x,1.0
